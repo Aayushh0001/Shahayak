@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\hackathon\shahayak\flutter\Shahayak\shahayak\build\windows\x64\CMakeFiles\7c6ab791452282226839e99c92251c1e\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\hackathon\shahayak\flutter\Shahayak\shahayak\build\windows\x64\CMakeFiles\03ae02580132faceb72b42227df4e0d9\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\hackathon\shahayak\flutter\Shahayak\shahayak\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\hackathon\shahayak\flutter\Shahayak\shahayak\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{106E1056-5A66-3007-BB18-1345032CFE4A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
